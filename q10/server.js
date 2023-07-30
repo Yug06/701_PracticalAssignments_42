@@ -1,1 +1,1 @@
-console.log("Hello From Question 10!!!");
+console.log("Hello From Question 10!");
